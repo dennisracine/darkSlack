@@ -2157,7 +2157,7 @@ ts-message .internal_member_link:hover {
     background: black;
 }
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
-    color: #f0f0f0;
+    color: #d0d0d0;
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
