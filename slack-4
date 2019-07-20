@@ -2182,23 +2182,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     background: #000;}
     .c-texty_autocomplete__help {
     background: #222222;}
-    .c-texty_autocomplete--commands .c-texty_autocomplete__group {
-    background: #000000 !important;
-    color: #a0a0a0 !important;
-}
-.c-texty_autocomplete__result--selected {
-    background: #474747 !important;
-    color: #f0f0f0 !important;
-}
-.c-texty_autocomplete__result {
-    color: #f0f0f0 !important;
-}
-.c-search_autocomplete footer {
-    background-color: #2b2c2e !important;
-}
-.c_search_autocomplete_suggestion_item:hover {
-    background-color: #474747 !important;   
-}
+   .c-search_autocomplete__suggestion_item:hover {
+    background: #303030 !important;}
     .p-classic_nav__drag {
     -webkit-app-region: drag;
     background: #222222;
