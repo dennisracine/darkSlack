@@ -1134,6 +1134,8 @@ color:#a4d677 !important
     #footer{
      background: #222222;
     }
+    .workspace__primary_view_footer{background:#22222;color:#f0f0f0;}
+    .p-notification_bar__section{color:#f0f0f0;}
     .p-channel_sidebar__name {
     color: #f0f0f0;}
     
