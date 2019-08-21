@@ -1732,7 +1732,9 @@ color:white;}
     .c-pillow_file__snippet__content .CodeMirror {
     height: auto;
     border: none;
-    color: #ffffff;}
+    color: #c0c0c0;
+    background-color: #343434;
+    }
     .c-pillow_file__snippet__content .CodeMirror-code>div:before {
  
     color: rgb(255, 101, 101);}
