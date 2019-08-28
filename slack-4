@@ -2533,4 +2533,4 @@ background:#222222 !important}
     color: #a0a0a0;}
 .p-context_bar{color:#f0f0f0 !important;background-color: #232323 !important}
 .p-degraded_list__loading{color:#f0f0f0 !important;background-color: #232323 !important}
-.c-message_list__day_divider__label__pill{color:#232323 !important;background-color: #404040 !important}
+.c-message_list__day_divider__label__pill{color:#d0d0d0 !important;background-color: #404040 !important}
